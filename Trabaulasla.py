@@ -5,4 +5,6 @@ if IDADE < 18:
     print("Porra, vai comer terra.")
 
 else:
-    print("Você esta ficando MUITO velho.")
+    print("Você esta ficando velho.")
+
+print("Obrigado por usar noso serviço")
