@@ -4,5 +4,5 @@ if IDADE < 18:
     print("Sai fora moleque.")
     print("Porra, vai comer terra.")
 
-if IDADE >= 18:
+else:
     print("Você esta ficando MUITO velho.")
