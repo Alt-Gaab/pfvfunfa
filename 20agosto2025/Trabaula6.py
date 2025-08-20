@@ -1,3 +1,4 @@
+#Achar um jeito mais simples
 print("Cada um dos dois jogaores de escolher entre pedra, papel, e tesoura:")
 J1 = input("Jogador 1, escolha:")
 J2 = input("Jogador 2, escolha:")
