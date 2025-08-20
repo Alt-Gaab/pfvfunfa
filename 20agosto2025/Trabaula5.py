@@ -8,8 +8,10 @@ if SERVIÇO == "sim":
     print("5) muito foda!")
     NOTA = input()
     print("A nota dada foi", NOTA )
-    print("Obrigado pela preferencia!")
+
 if SERVIÇO == "não":
     NOTA = 0
     print("A nota dada foi", NOTA)
     input("Porfavor nos diga o porque:")
+
+print("Obrigado pela preferencia!")
