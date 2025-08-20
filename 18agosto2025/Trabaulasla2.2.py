@@ -8,7 +8,7 @@ somar = média / 4
 print(somar)
 if somar <= 5:
     print("Burro do caralho! Vai fazer o ano denovo!")
-if somar >= 6.5:
+elif somar >= 6.5:
     print("Parabéns, você não é um burro do caralho.")
 else:
     somar < 5 or somar > 6.5
