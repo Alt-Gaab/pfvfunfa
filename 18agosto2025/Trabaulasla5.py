@@ -1,3 +1,4 @@
+#Fazer igual a Aula1 de 20agosto2025
 print("Escolha um número de acordo com o dia da semana em que você esta para que você possa ver o que pedo fazer hoje:")
 print("1 domingo")
 print("2 segunda")
