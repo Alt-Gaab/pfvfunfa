@@ -1,3 +1,4 @@
+#Programa com algumas falhas, arrumar depois
 SERVIÇO = input("VocÊ foi atendido? ")
 if SERVIÇO == "sim":
     print("Porfavor de uma nota de 1 a 5:")
