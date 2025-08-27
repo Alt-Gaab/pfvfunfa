@@ -1,0 +1,18 @@
+def apresentar():
+    print(f"Meu nome é {MyName}.")
+    print(f"Minha altura é de {MyHeigh} metros.")
+    print(f"Minha idade é {MyAge} anos")
+    return
+def conferir(X):
+        if X >= 18:
+            print("Você é maior de idade!")
+        else:
+            print("Ops, menor de idade não pode!")
+        return
+
+MyName = str(input("Digite seu nome: "))
+MyHeigh = str(input("Digite a sua altura: "))
+MyAge = int(input("Digite a sua idade: "))
+
+apresentar()
+conferir(MyAge)
