@@ -1,16 +1,6 @@
-#Acho q ta certo
-CONTADOR = 0; SENHA=""
-while SENHA != "S3nh4":
-    print("Digite a senha:")
-    SENHA = input()
+print("Digite o valor maxímo desejado:")
+NUMERO = int(input())
 
-    if SENHA == "S3nh4":
-        print("Senha correta!")
-        break
-    else:
-        print("Senha errada...")
-
-    CONTADOR += 1
-    if CONTADOR == 3:
-        print("3 tentativas excedidas...")
-        break
+print("Segue, os números desejados:")
+for X in range (0, NUMERO):
+    print(X)

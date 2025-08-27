@@ -1,6 +1,5 @@
-#Acho q ta certo
 print("Digite o valor maximo desejado:")
-NUMERO = int(input)
+NUMERO = int(input())
 
 X = 0
 print("Segue, os numeros desejados:")
