@@ -2,7 +2,7 @@ print("Vou almoçar em um restaurante a quilo!")
 
 original = ["arroz", "feijão", "batata", "alface", "frango"]
 print(f"Eis, a minha comida:{original}")
-derivada = original
+derivada = original[:]
 print(f"Meu amige irá comer também:{derivada}")
 
 print("Vou alterar as opções sem ele ver. . .")
