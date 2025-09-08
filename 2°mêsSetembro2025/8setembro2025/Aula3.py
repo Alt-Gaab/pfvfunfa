@@ -1,7 +1,7 @@
 print("Eis, a tabuada numérica original")
 tabuada = [[1,2,3],
-           [4,5,6,],
-           [7,8,9]]
+                 [4,5,6],
+                 [7,8,9]]
 multiplicar = int(input("Digite o multiplicador:"))
 
 for x in range(0,3):

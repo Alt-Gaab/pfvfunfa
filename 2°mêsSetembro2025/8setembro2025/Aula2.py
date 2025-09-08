@@ -1,7 +1,7 @@
 print("Eis, o taclado númerico do terminal:")
 teclado = [[1,2,3],
-           [4,5,6],
-           [7,8,9]]
+                [4,5,6],
+                [7,8,9]]
 senha=[]
 
 print("Digite a sua senha de 4 dígitos. . .")
