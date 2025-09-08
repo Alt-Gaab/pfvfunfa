@@ -15,7 +15,7 @@ if resposta == "s":
             print("Tarefa adicionada!")
         elif outra == "n":
             print("Beleza, preguissoso!")
-        print("Ainda faltam estas tarefas:", tarefas)
+        print(f"Ainda faltam estas tarefas: {tarefas}")
     else:
         print("Tarefa não encontrada na lista.")
 elif resposta == "n":
